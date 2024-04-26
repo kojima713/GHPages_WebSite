@@ -24,7 +24,7 @@ permalink: /
 星野アクア
 ![image](/GHPages_WebSite/assets/images/00000031.png)
 星野ルビー
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/00000030.png)
 
 #### 見出し4
 ##### 見出し5
