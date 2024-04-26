@@ -18,7 +18,9 @@ permalink: /
 ### 「この芸能界において嘘は武器だ」
 地方都市で、産婦人科医として働くゴロー。芸能界とは無縁の日々。一方、彼の“推し”のアイドル・星野アイは、スターダムを上り始めていた。そんな二人が“最悪”の出会いを果たし、運命が動き出す…!?
 “赤坂アカ×横槍メンゴ”の豪華タッグが全く新しい切り口で“芸能界”を描く衝撃作開幕!!  
-![image(https://ichigoproduction.com/core_sys/images/contents/00000006/block/00000017/00000031.png?1712901987)
+キャラクター
+![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/00000031.png)
 
 #### 見出し4
 ##### 見出し5
