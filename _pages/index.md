@@ -3,7 +3,7 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-hello
+
 
 
 
@@ -13,7 +13,7 @@ hello
 
 以下テンプレート
 
-# 見出し1
+# Ado
 ## 見出し2
 ### 見出し3
 #### 見出し4
